@@ -1,0 +1,13 @@
+.rc-input-number-input {
+    background-color: transparent;
+    width: 80%;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bolder;
+    border: 1px solid #ffffff7a;
+    color: white;
+}
+
+.rc-input-number {
+    width: 33%
+}

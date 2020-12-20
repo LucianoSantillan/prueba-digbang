@@ -1,0 +1,23 @@
+.titulo-formulario {
+    width: 100%;
+    align-self: center;
+    font-weight: bold;
+    padding-bottom: 15;
+    font-size: 21px
+}
+
+.footer-formulario {
+    background-color: #00355d;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 14px;
+    align-items: center;
+}
+
+.container {
+    background-color: #003b67;
+    width: 300px;
+    align-self: center;
+    padding: 30px;
+    margin: 10px
+}
